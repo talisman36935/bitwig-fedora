@@ -1,4 +1,4 @@
-Use case: You don't want to install bitwig via flatpak (sandboxed) on fedora as you want to use yabridge and vsts in general, maybe you tried to convert the 'Ubuntu' .deb to .rpm via alien but you had to force it and ended up with dependency mismatches that caused your dnf upgrades to fail.
+Use case: You don't want to install bitwig via flatpak (sandboxed) on fedora as you want to use yabridge and vsts in general, maybe you tried to convert the 'Ubuntu' .deb to .rpm via alien but you had to force the rpm -i install and ended up with dependency mismatches that caused your dnf upgrades to fail.
 
 To Install:
 
