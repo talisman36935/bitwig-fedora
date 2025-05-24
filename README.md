@@ -9,4 +9,4 @@ To Install:
 
 Repeat the process above to update to the latest version, run the uninstall script to remove.
 
-use the vulkan fix script only on optimus machines.
+Use the vulkan fix script only on optimus machines.
